@@ -10,8 +10,7 @@ class Exercise12 {
 
         int y;
         System.out.println("enter second number:");
-
-        inputValue = new Scanner(System.in);
+        
         y = inputValue.nextInt();
 
         if (x > y){
