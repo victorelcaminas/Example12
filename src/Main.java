@@ -13,11 +13,11 @@ class Exercise12 {
         
         y = inputValue.nextInt();
 
-        if (x > y){
-            System.out.println("The biggest number is: " +x);
+        if (x > y) {
+            System.out.println("The biggest number is: " + x);
 
         } else {
-            System.out.println("The biggest number is: " +y);
+            System.out.println("The biggest number is: " + y);
         }
     }
 }
